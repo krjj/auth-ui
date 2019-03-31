@@ -1,0 +1,37 @@
+{
+  "name": "auth",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "js-cookie": "^2.2.0",
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.11",
+    "moment": "^2.22.2",
+    "qs": "^6.6.0",
+    "react": "^16.6.3",
+    "react-c3js": "^0.1.20",
+    "react-country-flag": "^1.0.2",
+    "react-datepicker": "^2.0.0",
+    "react-device-detect": "^1.6.2",
+    "react-dom": "^16.6.3",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.1",
+    "tabler-react": "^1.22.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
